@@ -1,0 +1,49 @@
+
+h1{
+   text-align: center;
+   background: linear-gradient(rgb(33, 33, 202), rgb(213, 213, 228));
+   margin: initial;
+   border-color: black;
+   font-size: 45px;
+   position: absolute 20px;
+}
+
+h2{
+   background: linear-gradient(rgb(191, 191, 211), rgb(213, 213, 228));
+   margin-right: 1050px;
+   background-position: top;
+}
+
+p{
+    text-align: justify;
+    margin: 10px;
+
+    
+}
+
+.card{
+    width: 1200px;
+    text-align: justify;
+    font-family: cursive;
+    box-shadow: rgb(red, green, blue);
+}
+
+.ODS{
+    background-color: rgb(120, 224, 250);
+}
+ 
+.agua{
+    background-color: rgb(120, 224, 250);
+}
+
+.metas{
+    background-color: rgb(120,224,250);
+}
+
+img{
+    image-rendering: optimizeQuality;
+    
+}
+.topo{background-position: left;
+
+}
